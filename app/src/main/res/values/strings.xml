@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">QuizUp</string>
+    <string name="question">Question</string>
+    <string name="enter_your_question_here">Enter your question here</string>
+    <string name="upload_image">Upload Image</string>
+    <string name="submit">Submit</string>
+    <string name="todo">TODO</string>
+    <string name="assign_marks_for_the_question_here">Assign Marks for the question here</string>
+    <string name="textview">TextView</string>
+    <string name="correct_option_number">correct option number</string>
+    <string name="option4">option4</string>
+    <string name="option3">option3</string>
+    <string name="option2">option2</string>
+    <string name="option1">option1</string>
+    <string name="solution">Solution</string>
+    <string name="login">LOGIN</string>
+    <string name="signup">SIGNUP</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="button">Button</string>
+    <string name="timer">Timer</string>
+    <string name="question_no">Question No.</string>
+    <string name="_10_marks">10 Marks</string>
+    <string name="_1">1</string>
+    <string name="time_out">TIME OUT</string>
+    <string name="add_new_quiz">Add New Quiz</string>
+    <string name="view_scoresheet">View Scoresheet</string>
+    <string name="logout">logout</string>
+    <string name="teacher">Teacher</string>
+    <string name="student">Student</string>
+    <string name="next_question">NEXT QUESTION</string>
+
+</resources>
